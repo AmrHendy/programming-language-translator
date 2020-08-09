@@ -1,6 +1,6 @@
 # Programming Language Translator
 
-This repository is build on the released Pytorch original implementation of TransCoder in [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf) by Facebook Research in their [organization](https://github.com/facebookresearch/TransCoder).
+This repository is built on top of the released PyTorch original implementation of TransCoder in [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf) by Facebook Research in their [organization](https://github.com/facebookresearch/TransCoder).
 
 Facebook AI Research has announced TransCoder, a system that uses unsupervised deep-learning to convert code from one programming language to another. TransCoder was trained on more than 2.8 million open source projects and outperforms existing code translation systems that use rule-based methods.
 
@@ -15,7 +15,7 @@ To train the models, the team mined samples from over 2.8 million open-source re
 
 In this repository, I prepared a [notebook](https://github.com/AmrHendy/programming-language-translator/blob/master/Programming_Language_Translator.ipynb) to prepare an environment and install all required dependencies to use the official TransCoder released checkpoints.
 
-All you need now is just opening the [notebook](https://github.com/AmrHendy/programming-language-translator/blob/master/Programming_Language_Translator.ipynb) using your prefered way then run all code cells to prepare everything, then upload your source code for your chosen source language and choose the target language to which you want to translate, and wait for the MAGIC!!
+**All you need now is just opening the [notebook](https://github.com/AmrHendy/programming-language-translator/blob/master/Programming_Language_Translator.ipynb) using your prefered way then run all code cells to prepare everything, then upload your source code for your chosen source language and choose the target language to which you want to translate, and wait for the MAGIC!!**
 
 
 ## References
